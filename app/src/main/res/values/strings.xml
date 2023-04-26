@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="title_activity_maps">MyLocation</string>
+    <string name="show_my_location">Show my Location</string>
+    <string name="show_location_history">Show Location History</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_a_user_login">Already a User? Login</string>
+    <string name="invalid_email">Email is Invalid</string>
+    <string name="invalid_password">Password is Invalid</string>
+    <string name="invalid_confirm_password">Confirm Password does not match</string>
+    <string name="logout">logout</string>
+    <string name="ogout">Logout</string>
+    <string name="delete_location_history">Delete Location History</string>
+    <string name="send_email">Send Email</string>
+
+</resources>
